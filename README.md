@@ -1,3 +1,5 @@
-# MeiteiTrampoline
-以前作成したゲームのexeファイルがreleaseにあります。
-#スクリプトはsourcecodeのブランチに入っています
+# MeiteiTrampoline  
+
+以前作成したゲームのexeファイルがreleaseにあります。  
+
+スクリプトはsourcecodeのブランチから確認できます。
